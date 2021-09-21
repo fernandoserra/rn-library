@@ -1,7 +1,7 @@
 import React , {Component} from "react";
 import { View, Text,StyleSheet} from "react-native";
 
-class Test2 extends Component{
+class TestTwo extends Component{
 
     render(){
         return(
@@ -24,4 +24,4 @@ const styles= StyleSheet.create({
 })
 
 
-export default Test2;
+export default TestTwo;

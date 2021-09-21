@@ -1,4 +1,4 @@
-import Test from './src/test-1';
-import Test2 from './src/test-2';
+import Test from './src/testOne';
+import Test2 from './src/testTwo';
 export { Test };
 export { Test2 };
