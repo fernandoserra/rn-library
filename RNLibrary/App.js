@@ -26,8 +26,10 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-//import Test from './src/components/demo/ComponentTest';
-import Test from 'rn-library-front'
+//import Test from './src/components/demo/test-1';
+//import Test2 from './src/components/demo/test-2';
+import Test from 'rn-library-front/src/testOne'
+import Test2 from 'rn-library-front/src/testTwo'
 
 const Section = ({children, title}): Node => {
   const isDarkMode = useColorScheme() === 'dark';
@@ -63,7 +65,7 @@ const App: () => Node = () => {
   };
 
   return (
-    <Test/>
+    <Test2/>
   );
 };
 
