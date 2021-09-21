@@ -26,7 +26,8 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-import Test from './src/components/demo/ComponentTest';
+//import Test from './src/components/demo/ComponentTest';
+import Test from 'rn-library-front'
 
 const Section = ({children, title}): Node => {
   const isDarkMode = useColorScheme() === 'dark';

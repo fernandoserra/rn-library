@@ -6,7 +6,7 @@ class Test extends Component{
     render(){
         return(
             <View style={styles.container}>
-                <Text style={styles.text}>Test Library</Text>
+                <Text style={styles.text}>Test Library interno</Text>
             </View>
         );
     }
