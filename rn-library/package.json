@@ -1,11 +1,11 @@
 {
   "name": "rn-library",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "react native library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Fernando Serra",
+  "author": "Fernando Serra <fernando.serra.r@gmail.com> (https://fernandoserra.github.io/)",
   "license": "ISC"
 }
